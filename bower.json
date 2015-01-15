@@ -1,7 +1,22 @@
 {
-    "name": "modernizr-mixin",
-    "version": "3.0.3",
-    "main": "modernizr.scss",
-    "author": "Daniel Guillan",
-    "ignore": ["*","!stylesheets/_modernizr.scss"]
+  "name": "modernizr-mixin",
+  "version": "3.0.3",
+  "main": "stylesheets/modernizr.scss",
+  "author": "Daniel Guillan",
+  "ignore": [
+    "lib",
+    ".gitignore",
+    "*.yml",
+    "Gemfile",
+    "Gemfile.lock",
+    "Rakefile",
+    "modernizr-mixin.gemspec",
+    "CHANGELOG.md",
+    "LICENSE",
+    "LICENSE.md",
+    "NEWS.md",
+    "test",
+    "tests",
+    "spec"
+  ]
 }
